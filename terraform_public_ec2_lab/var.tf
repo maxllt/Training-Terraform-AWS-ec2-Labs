@@ -1,12 +1,12 @@
 # Input variable: region
 variable "region" {
   description = "The region which will be used to create ressources"
-  default = "eu-west-3"
+  default = "your_region"
 }
 
 variable "subnets_region" {
   description = "The region which will be used to create subnets ressources"
-  default = "eu-west-3a"
+  default = "your_subnet_region"
 }
 
 # Input variable: server port
