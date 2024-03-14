@@ -4,7 +4,7 @@ Welcome to the AWS EC2 Labs repository! This repository serves as a collection o
 
 ## Labs Overview
 
-Each lab in this repository focuses on a specific aspect of deploying EC2 instances with Terraform. You'll learn how to set up security groups, subnets, SSH access, VPCs, and internet gateways to deploy and manage EC2 instances effectively.
+Each lab in this repository focuses on a specific aspect of deploying EC2 instances with Terraform. You'll learn how to set up security groups, subnets, SSH access, VPCs, and internet gateways to deploy, manage EC2 instances effectively and more to come.
 
 ## Getting Started
 
