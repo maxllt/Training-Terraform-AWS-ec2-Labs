@@ -1,6 +1,6 @@
 resource "aws_key_pair" "key_test" {
   key_name   = "key_test" 
-  public_key = file("${ssh_key}")
+  public_key = file("${var.ssh_key}")
 }
 
 # Create an EC2 instance
