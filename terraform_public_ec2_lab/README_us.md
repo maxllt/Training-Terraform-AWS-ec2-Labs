@@ -14,7 +14,7 @@ Before getting started, make sure you have the following software installed on y
 1. **Clone the Repository:** Start by cloning this Git repository to your local machine:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/maxllt/terraform_public_ec2_lab.git
 ```
 
 2. **Initialize the Directory:** Navigate to the cloned directory and initialize Terraform by running the following command:
