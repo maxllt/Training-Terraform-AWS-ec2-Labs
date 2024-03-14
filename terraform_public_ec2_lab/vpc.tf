@@ -2,7 +2,7 @@
 resource "aws_vpc" "vpc_test" {
   cidr_block = "${var.vpc_cidr}"  # Changer le bloc CIDR selon votre VPC
   tags = {
-    name = "vpc_est"
+    name = "vpc_test"
   }
 }
 
