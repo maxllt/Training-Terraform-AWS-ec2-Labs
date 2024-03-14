@@ -1,8 +1,8 @@
 # Configure the Subnet in the VPC
 resource "aws_subnet" "subnet_test" {
   vpc_id            = aws_vpc.vpc_test.id
-  cidr_block        = "${var.subnet_cidr}"  # Changer le bloc CIDR selon votre subnet
-  availability_zone = "eu-west-3a"   # Changer la zone selon votre préférence
+  cidr_block        = "${var.subnet_cidr}"
+  availability_zone = "${var.subnets_region}" 
   tags = {
     name = "subnet_test"
   }
