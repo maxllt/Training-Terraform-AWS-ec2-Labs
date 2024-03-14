@@ -14,7 +14,7 @@ Avant de commencer, assurez-vous d'avoir installé les logiciels suivants sur vo
 1. **Clonage du Répertoire :** Commencez par cloner ce répertoire Git sur votre machine locale :
 
 ```bash
-git clone <url_du_repository>
+git clone https://github.com/maxllt/terraform_public_ec2_lab.git
 ```
 
 2. **Initialisation du Répertoire :** Accédez au répertoire cloné et initialisez Terraform en exécutant la commande suivante :
