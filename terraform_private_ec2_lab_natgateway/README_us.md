@@ -43,7 +43,7 @@ terraform apply
 ```
 aws-terraform-ec2-nat-alb-lab/
 │
-├── providers.tf       # File defining Terraform providers
+├── providers.tf       # File defining providers
 ├── var.tf             # File defining Terraform variables
 ├── outputs.tf         # File defining Terraform outputs
 ├── terraform.tfstate  # Terraform state file (generated after deployment)
