@@ -1,7 +1,7 @@
 # Input variable: region
 variable "region" {
   description = "The region which will be used to create ressources"
-  default = "you_region"
+  default = "your_region"
 }
 
 variable "subnets_region_a" {
