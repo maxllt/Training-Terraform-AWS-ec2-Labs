@@ -43,7 +43,7 @@ terraform apply
 ```
 aws-terraform-ec2-nat-alb-lab/
 │
-├── providers.tf       # Fichier définissant les fournisseurs Terraform
+├── providers.tf       # Fichier définissant les fournisseurs
 ├── var.tf             # Fichier définissant les variables Terraform
 ├── outputs.tf         # Fichier définissant les sorties Terraform
 ├── terraform.tfstate  # Fichier d'état Terraform (généré après le déploiement)
